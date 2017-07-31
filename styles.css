@@ -1,0 +1,95 @@
+/*div#prvi {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    position: relative;
+    left: 40%;
+}
+
+div#drugi {
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+    position: relative;
+    top:50px;
+    
+}
+
+div#treci {
+    width:100px;
+    height: 100px;
+    background: yellow;
+    position: absolute;
+    right:70px;
+    margin: -50px;
+    
+}
+
+div#cetvrti{
+    width: 100px;
+    height: 100px;
+    background: green;
+    position: absolute;
+    bottom: 0px;
+    left:40%;
+    
+}
+
+div#peti {
+    width: 100px;
+    height:100px;
+    background: darkred;
+    position: relative;
+    left: 50%;
+    margin-left: -50px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+
+div#sesti {
+    width: 150px;
+    height: 150px;
+    background: orange;
+    position: relative;
+    left: 50%;
+    margin-top: -100px;
+    margin-left: -50px;
+    border-radius: 50%;
+    z-index: 0;
+}
+
+
+div#sedmi {
+    width: 150px;
+    height:100px;
+    border-radius: 50%;
+    background: coral;
+    position: fixed;
+    
+} */
+    
+
+div{ 
+
+    max-width: 900px;
+    height: 600px;
+    background: purple;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
